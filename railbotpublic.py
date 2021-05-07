@@ -27,8 +27,8 @@ async def requestadd(ctx,  **args):
     sql = f""
     mycursor.execute(sql)
     mydb.commit()
-    replymessage = discord.Embed(title="Railway Bot (Discord)", color=0x00FF00,
-                                     description="This command at the moment does not have an api to back it up this will coming very soon. Thanks Bean.")
+    replymessage = discord.Embed(title="", color=0x00FF00,
+                                     description="")
     await ctx.send(embed=replymessage)
 
 
@@ -46,8 +46,8 @@ async def requestremove(ctx, **args):
     sql = f""
     mycursor.execute(sql)
     mydb.commit()
-    replymessage = discord.Embed(title="Railway Bot (Discord)", color=0x00FF00,
-                                     description="This command at the moment does not have an api to back it up this will coming very soon. Thanks Bean.")
+    replymessage = discord.Embed(title="", color=0x00FF00,
+                                     description="")
     await ctx.send(embed=replymessage)
 
 # Request to remove a train
@@ -65,7 +65,7 @@ async def requestedit(ctx, **args):
     mycursor.execute(sql)
     mydb.commit()
     replymessage = discord.Embed(title="Railway Bot (Discord)", color=0x00FF00,
-                                     description="This command at the moment does not have an api to back it up this will coming very soon. Thanks Bean.")
+                                     description="")
     await ctx.send(embed=replymessage)
 
 # run the bot
