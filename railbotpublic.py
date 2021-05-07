@@ -64,9 +64,13 @@ async def requestedit(ctx, **args):
     sql = f""
     mycursor.execute(sql)
     mydb.commit()
-    replymessage = discord.Embed(title="Railway Bot (Discord)", color=0x00FF00,
+    replymessage = discord.Embed(title="", color=0x00FF00,
                                      description="")
     await ctx.send(embed=replymessage)
 
+# notes: 
+# just a template. 
+    
+    
 # run the bot
 bot.run(token, bot=True)
