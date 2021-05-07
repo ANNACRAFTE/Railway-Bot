@@ -32,4 +32,11 @@ To suggest a feature let me in my discord dms. `bean!!!!!!!#0041`
 Thanks, Bean
 Lead Dev @ Alle Group
 
-Alle Group are hiring join today @ Our discord(https://discord.gg/F9cpRS7gX8) Or Via TMP (https://truckersmp.com/vtc/allegroup)
+**Alle Group are hiring join today @ Our discord https://discord.gg/F9cpRS7gX8 Or Via TMP https://truckersmp.com/vtc/allegroup**
+
+**The Discord Bot will be written in:**
+- python
+- Json
+- TS 
+- React
+
