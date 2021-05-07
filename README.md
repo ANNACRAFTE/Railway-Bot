@@ -40,3 +40,9 @@ Lead Dev @ Alle Group
 - TS 
 - React
 
+
+
+# The code will be open source but only partly.
+- Simple Bot Code (no api info, bot tokens)
+- No webiste code
+- No web server info. 
