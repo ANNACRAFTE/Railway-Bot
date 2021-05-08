@@ -17,11 +17,11 @@ For this feature i was thinking of having some form of web system that would dis
 
 
 # Planned Bot Release Date. 
-I plan to have the first two points out by 10/05/2021. 
-**However this i cant promise anything**
+I plan to have the first two points out by 12/05/2021. 
+**However i cant promise anything**
 
 # Planned API Release Date
-I plan to have the **api** out by 11/05/2021. Note: It will be online upon the bot coming out but not for public use. 
+I plan to have the **api** out by 14/05/2021. Note: It will be online upon the bot coming out but not for public use. 
 
 # Website Planned Release Date
 I plan to have a website before the end of May.
