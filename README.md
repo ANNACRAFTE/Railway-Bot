@@ -51,4 +51,4 @@ Lead Dev @ Alle Group
 
 # Update 08/05/2021
 Here is a sample image of what the `!requestadd` command looks like. 
-! [Commands](yhjkjkl.png)
+! [Commands](https://user-images.githubusercontent.com/67719111/117544252-801cb200-b018-11eb-8c6c-24d1e5e1e1c5.pngg)
